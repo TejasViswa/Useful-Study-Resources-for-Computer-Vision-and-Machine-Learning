@@ -4,6 +4,8 @@ This repo is intended to provide links to some useful resources on Computer visi
 
 ## Computer Vision:
 
+- [Awesome Computer Vision GitHub Repo](https://github.com/jbhuang0604/awesome-computer-vision) 
+
 ### First Principles of Computer Vision:
 - [Lecture series by Shree K. Nayar](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
 
