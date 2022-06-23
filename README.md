@@ -36,6 +36,10 @@ This repo is intended to provide links to some useful resources on Computer visi
 ### CMake:
 - [Guide to using CMake](https://www.internalpointers.com/post/modern-cmake-beginner-introduction)
 
+## SLAM:
+### Visual SLAM:
+- [Introduction to Visual SLAM](https://github.com/gaoxiang12/slambook-en/blob/master/slambook-en.pdf)
+
 ## GPU Programming:
 
 ### CUDA Programming:
