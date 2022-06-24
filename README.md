@@ -45,6 +45,10 @@ This repo is intended to provide links to some useful resources on Computer visi
 - [Official CMake guide](https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html)
 
 ## SLAM:
+
+### Quaternions:
+- [Explorable Videos 3Blue1Brown](https://eater.net/quaternions)
+
 ### Visual SLAM:
 - [Introduction to Visual SLAM](https://github.com/gaoxiang12/slambook-en/blob/master/slambook-en.pdf)
 
