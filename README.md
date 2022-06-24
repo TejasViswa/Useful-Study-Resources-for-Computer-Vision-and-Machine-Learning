@@ -33,12 +33,23 @@ This repo is intended to provide links to some useful resources on Computer visi
 - [Github Repo based on d2l PDF](https://github.com/dsgiitr/d2l-pytorch)
 
 ## C++:
+### Libraries:
+- [All about libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/introduction.html)
+
+### Make:
+- [Beginner's guide to makefiles](https://makefiletutorial.com/)
+- [Everything about make/makefiles](https://www.gnu.org/software/make/manual/make.html#Reading)
+
 ### CMake:
-- [Guide to using CMake](https://www.internalpointers.com/post/modern-cmake-beginner-introduction)
+- [Basic guide to using CMake](https://www.internalpointers.com/post/modern-cmake-beginner-introduction)
+- [Official CMake guide](https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html)
 
 ## SLAM:
 ### Visual SLAM:
 - [Introduction to Visual SLAM](https://github.com/gaoxiang12/slambook-en/blob/master/slambook-en.pdf)
+
+### Pangolin Visualizer:
+- [Example to use Pangolin](https://stevenlovegrove.github.io/Pangolin/examples/)
 
 ## GPU Programming:
 
