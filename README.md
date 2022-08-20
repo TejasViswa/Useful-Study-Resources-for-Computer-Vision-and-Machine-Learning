@@ -35,7 +35,7 @@ This repo is intended to provide links to some useful resources on Computer visi
 ## C++:
 
 ### OpenCV on Ubuntu Installation Guide:
-- [Problems and Fixes](Create OpenCV_Ubuntu_Issues_and_Fixes.md)
+- [Problems and Fixes](OpenCV_Ubuntu_Issues_and_Fixes.md)
 
 ### Libraries:
 - [All about libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/introduction.html)
