@@ -33,6 +33,11 @@ This repo is intended to provide links to some useful resources on Computer visi
 - [Github Repo based on d2l PDF](https://github.com/dsgiitr/d2l-pytorch)
 
 ## C++:
+
+### OpenCV on Ubuntu Installation Guide:
+- [Reinstall / Install OpenCV](https://programmer.group/ubuntu-18.04-uninstalling-and-installing-opencv.html)
+- [Fix ffmpeg error](https://cuda-chen.github.io/programming/image%20processing/2020/01/31/libavcodec-not-found-opencv.html)
+
 ### Libraries:
 - [All about libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/introduction.html)
 
