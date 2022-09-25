@@ -34,6 +34,9 @@ This repo is intended to provide links to some useful resources on Computer visi
 
 ## C++:
 
+- [Learn C++](learncpp.com)
+- [Hacking C++](hackingcpp.com)
+
 ### OpenCV on Ubuntu Installation Guide:
 - [Problems and Fixes](OpenCV_Ubuntu_Issues_and_Fixes.md)
 
