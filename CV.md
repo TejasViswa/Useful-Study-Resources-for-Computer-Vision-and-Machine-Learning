@@ -16,3 +16,6 @@
 
 ## Photogrammetry:
 - [Cyrill Videos on Photogrammtery](https://www.youtube.com/watch?v=SyB7Wg1e62A&list=PLgnQpQtFTOGRYjqjdZxTEQPZuFHQa7O7Y)
+
+## OpenCV on Ubuntu Installation Guide:
+- [Problems and Fixes](OpenCV_Ubuntu_Issues_and_Fixes.md)
