@@ -13,3 +13,5 @@ This repo is intended to provide links to some useful resources on Computer visi
 ## [SLAM](SLAM.md)
 
 ## [GPU Programming](GPU.md)
+
+## [Control](Control.md)
