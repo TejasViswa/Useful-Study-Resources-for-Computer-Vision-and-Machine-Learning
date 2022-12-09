@@ -15,3 +15,5 @@ This repo is intended to provide links to some useful resources on Computer visi
 ## [GPU Programming](GPU.md)
 
 ## [Control](Control.md)
+
+## [Reinforcement Learning](RL.md)
