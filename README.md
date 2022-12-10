@@ -17,5 +17,3 @@ This repo is intended to provide links to some useful resources on Computer visi
 ## [Control](Control.md)
 
 ## [Reinforcement Learning](RL.md)
-![image](https://user-images.githubusercontent.com/45400093/206835099-9e9c5e80-0670-4e7f-a06d-f7c5a3fafd3a.png)
-
